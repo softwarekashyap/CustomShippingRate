@@ -23,9 +23,6 @@ Instead of using complex shipping table rates, our extension simplifies your che
 * Upgrade db scheme: `php bin/magento setup:upgrade`
 * Deply Static Content: `php bin/magento setup:static-content:deploy -f` Developer Mode
 * Deply Static Content: `php bin/magento setup:static-content:deploy` Production Mode
----
-
-![Magento2 Custom Shippiing Rate Admin](http://kashyapsoftware.com/Custom_Shipping_Rate_for_Magento2_by_Kashyap.gif)
 
 ---
 
@@ -34,6 +31,10 @@ Instead of using complex shipping table rates, our extension simplifies your che
 ---
 
 ![Alt text](ShippingDisplayAdmin.png?raw=true "Magento 2 Multi Custom Shipping Rate")
+
+---
+
+![Magento2 Custom Shippiing Rate Admin](http://kashyapsoftware.com/Custom_Shipping_Rate_for_Magento2_by_Kashyap.gif)
 
 ---
 
