@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author Kashyap Team
+ * @copyright Copyright (c) 2018 Kashyap (softwarekashyap@gmail.com)
+ * @package Kashyap_CustomShippingRate
+*/
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceBlock name="shipping_method">
+            <block class="Kashyap\CustomShippingRate\Block\Adminhtml\Order\Create\Shipping\Method\Form" template="Kashyap_CustomShippingRate::order/create/shipping/method/form.phtml" name="order.create.shipping.method.form" as="form" />
+        </referenceBlock>
+    </body>
+</page>
