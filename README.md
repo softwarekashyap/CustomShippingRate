@@ -26,6 +26,16 @@ Instead of using complex shipping table rates, our extension simplifies your che
 
 ---
 
+## Features
+* Admin able to add unlimited different shipping methods from store backend
+* Admin able to Change Shipping Code
+* Admin able to Change Shipping Title
+* Admin able to Change Shipping Price
+* Admin able to Change Shipping Sort Order
+* Admin able to Add or Delete Shipping Method
+
+---
+
 ![Alt text](ShippingDisplay.png?raw=true "Magento 2 Multi Custom Shipping Rate")
 
 ---
