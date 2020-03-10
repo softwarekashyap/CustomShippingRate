@@ -1,6 +1,4 @@
 # Magento 2 Multi Custom Shipping Rate
-![Alt text](Custom_Shipping_Rate_for_Magento2_by_Kashyap.png?raw=true "Magento 2 Multi Custom Shipping Rate")
-
 Our Magento 2 multi custom shipping method extension provides two essential functionality for Magento store owner to fully take control of there store shipping options by providing the ability to quickly add custom shipping rates to both admin order creation or frontend customer.
 
 ## Custom Shipping Rate for Admin Order
@@ -25,6 +23,9 @@ Instead of using complex shipping table rates, our extension simplifies your che
 * Upgrade db scheme: `php bin/magento setup:upgrade`
 * Deply Static Content: `php bin/magento setup:static-content:deploy -f` Developer Mode
 * Deply Static Content: `php bin/magento setup:static-content:deploy` Production Mode
+---
+
+![Magento2 Custom Shippiing Rate Admin](http://kashyapsoftware.com/Custom_Shipping_Rate_for_Magento2_by_Kashyap.gif)
 
 ---
 
