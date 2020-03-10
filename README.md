@@ -1,4 +1,4 @@
-# Magento 2 Multi Custom Shipping Rate
+# Magento 2 Multi Custom Flate Shipping Rate
 Our Magento 2 multi custom shipping method extension provides two essential functionality for Magento store owner to fully take control of there store shipping options by providing the ability to quickly add custom shipping rates to both admin order creation or frontend customer.
 
 ## Custom Shipping Rate for Admin Order
